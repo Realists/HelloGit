@@ -10,5 +10,7 @@ public class HelloGit {
         System.out.println("主干在第十行添加");
 
         System.out.println("分支在第十行添加");
+
+        System.out.println("分支再一次添加");
     }
 }
