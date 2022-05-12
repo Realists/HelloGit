@@ -12,5 +12,6 @@ public class HelloGit {
         System.out.println("分支在第十行添加");
 
         System.out.println("分支再一次添加");
+       System.out.println("在线更新");
     }
 }
